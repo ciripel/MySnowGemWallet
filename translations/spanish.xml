@@ -87,6 +87,6 @@
 	<translation id="menu2">Enviar XSG</translation>
 	<translation id="menu3">Exportar</translation>
 	<translation id="export1">Vaciar la Llave Privada</translation>
-	<translation id="export2">/Descargar Llave Privada</translation>
-	<translation id="main1">/Cartera de SnowGem</translation>
+	<translation id="export2">Descargar Llave Privada</translation>
+	<translation id="main1">Cartera de SnowGem</translation>
 </translations>
